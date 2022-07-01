@@ -1,0 +1,20 @@
+{
+    "name": "column-drop-pattern-solution",
+    "version": "1.0.0",
+    "description": "Solution for column drop practice challenge with solution",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.stackroute.in/gps-frontend-workspace/coding-solutions/Column-Drop-Pattern-Solution.git"
+    },
+    "author": "Hema",
+    "license": "ISC",
+    "devDependencies": {
+        "html-validator": "^5.1.17",
+        "jest": "^26.6.3",
+        "jsdom": "^16.5.0"
+    }
+}
