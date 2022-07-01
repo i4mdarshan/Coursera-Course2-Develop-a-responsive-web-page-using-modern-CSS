@@ -1,0 +1,36 @@
+.image{
+    background-image: url('../Desktop-Image.png');
+    background-repeat:no-repeat;
+    width: 100%;
+    height: 80vh;
+}
+
+@media screen and (max-width: 462px) {
+    .image{
+        background-image: url('../Mobile-Image.png');
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .image{
+        background-image: url('../Tab-Image.png');
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 80vh;
+    }
+    
+}
+
+
+@media screen and (max-width: 1024px) {
+    .image{
+        background-image: url('../Desktop-Image.png');
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 80vh;
+    }
+}
